@@ -1,0 +1,3 @@
+[submodule "Content/project/Dog-Breed-Identification"]
+	path = Content/project/Dog-Breed-Identification
+	url = https://github.com/siddhant-rajhans/Dog-Breed-Identification.git
