@@ -1,3 +1,9 @@
 [submodule "Content/project/Dog-Breed-Identification"]
 	path = Content/project/Dog-Breed-Identification
 	url = https://github.com/siddhant-rajhans/Dog-Breed-Identification.git
+[submodule "Content/project/Osteoarthritis_prediction_with_Severity_Grading"]
+	path = Content/project/Osteoarthritis_prediction_with_Severity_Grading
+	url = git@github.com:siddhant-rajhans/Osteoarthritis_prediction_with_Severity_Grading.git
+[submodule "Content/project/ML_crop-prediction"]
+	path = Content/project/ML_crop-prediction
+	url = git@github.com:siddhant-rajhans/ML_crop-prediction.git
